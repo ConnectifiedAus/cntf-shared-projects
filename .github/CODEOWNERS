@@ -1,0 +1,3 @@
+# Managed by Terraform (cntf-tf-github). Edit code_owners in gh_repository.catalog.tf instead.
+* @ConnectifiedAus/cntf-devsecops
+/.github/ @ConnectifiedAus/cntf-devsecops
